@@ -1,0 +1,16 @@
+# Core LangChain stack
+langchain>=0.3
+langchain-community>=0.3
+langchain-ollama>=0.2
+
+# LangGraph — modern ReAct agent runtime
+langgraph>=0.2
+
+# File-system monitoring
+watchdog>=4.0
+
+# DuckDuckGo search backend (used by langchain-community's DuckDuckGoSearchResults)
+duckduckgo-search>=6.0
+
+# Environment variable loading from .env files
+python-dotenv>=1.0
