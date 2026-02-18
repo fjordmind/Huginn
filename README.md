@@ -28,7 +28,7 @@ This project was designed to be highly accessible and runs smoothly on older or 
 
 **1. Clone the repository**
 ```bash
-git clone [https://github.com/yourusername/TaskHound.git](https://github.com/yourusername/Huginn.git)
+git clone [https://github.com/yourusername/Huginn.git](https://github.com/yourusername/Huginn.git)
 cd Huginn
 
 ```
